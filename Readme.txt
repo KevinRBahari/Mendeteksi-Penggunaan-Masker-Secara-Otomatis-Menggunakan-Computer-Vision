@@ -11,3 +11,8 @@ Library khusus untuk GPU Radeon.
 Untuk Library dateset untuk training tidak ditambahkan
 kedalam github karena berisi 1000+ data, yang tentu saja
 tidak diperbolehkan oleh github.
+
+Untuk Versi Notifikasi harap masukan Token dari discord anda
+yang diberikan oleh discord pada tempat yang sudah diberi
+tanda. Harap Berhati-hati dengan Token Discord anda, jangan
+sampai terpublikasi !!!
