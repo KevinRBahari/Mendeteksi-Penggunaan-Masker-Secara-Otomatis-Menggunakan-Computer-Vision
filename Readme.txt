@@ -1,3 +1,4 @@
+// Indonesian
 Untuk Pemakai GPU Radeon, Harap menjalankan program GPU
 settings. Karena Tensorflow dan Keras sangat terbatas
 dengan GPU dari Radeon
